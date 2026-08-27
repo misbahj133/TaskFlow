@@ -23,14 +23,7 @@ TaskFlow Hub is an end-to-end, production-ready web application featuring robust
 
 ## 🔗 Project Link
 
-* **Live Demo Deployment:** 
-
- 
-
-
-
-
-
+* **Live Demo Deployment:** https://lnkd.in/p/diezrwrA
 ---
 
 ## 💻 Project Overview
